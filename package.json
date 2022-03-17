@@ -1,0 +1,20 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "sequencia de fibonacci",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MixSandro/fibonacci.git"
+  },
+  "author": "sandromix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MixSandro/fibonacci/issues"
+  },
+  "homepage": "https://github.com/MixSandro/fibonacci#readme"
+}
